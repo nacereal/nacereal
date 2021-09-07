@@ -1,4 +1,4 @@
-Hi, I’m Naseer Rehman or @nacereal on GitHub. Currently, just a learner.
+Hi, I’m Naseer Rehman or @nacereal on GitHub.
 
 <!---
 nacereal/nacereal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
